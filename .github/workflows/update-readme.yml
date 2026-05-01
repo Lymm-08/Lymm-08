@@ -1,0 +1,14 @@
+name: Atualizar README
+on:
+  schedule:
+    - cron: "0 * * * *" # roda a cada hora
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
