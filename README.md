@@ -34,13 +34,6 @@ Técnica em Desenvolvimento de Sistemas (Etec), em São Paulo, desenvolvedora co
 | [**marketCompare**](https://github.com/Lymm-08/marketCompare-TCC) | Comparação de preços entre supermercados com cadastro colaborativo de produtos. | Node.js, Express, Nunjucks, Bootstrap |
 | [**Gerador de senhas**](https://github.com/Lymm-08/Gerador-de-senhas-aleatorias) | Aplicativo desktop com interface gráfica. | Python, Tkinter |
 
-## 📊 GitHub
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lymm-08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lymm-08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
