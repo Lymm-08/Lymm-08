@@ -6,8 +6,7 @@
 
 ## 👋 Sobre mim
 
-Técnica em Desenvolvimento de Sistemas (Etec), em São Paulo, com foco em automação, APIs e integrações.
-Construo sistemas que **automatizam tarefas repetitivas**: coleta de dados, integrações entre sistemas, APIs e bancos de dados, com IA onde ela faz sentido.
+Técnica em Desenvolvimento de Sistemas (Etec), em São Paulo, desenvolvedora com foco em back-end. Construo APIs, modelo bancos de dados e integro sistemas, com especial interesse em automação de tarefas repetitivas e em IA aplicada onde ela faz sentido.
 
 ## 🛠️ Tecnologias
 
