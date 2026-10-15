@@ -31,7 +31,6 @@ Técnica em Desenvolvimento de Sistemas (Etec), em São Paulo, desenvolvedora co
 | [**ticket-flow-ai**](https://github.com/Lymm-08/ticket-flow-ai) | Robô que coleta chamados, classifica categoria e urgência com IA, grava no SQL Server e alerta os urgentes por webhook. API REST com painel web. | Python, Node.js, SQL Server, Docker, CI |
 | [**Fluxary**](https://github.com/Lymm-08/Fluxary_financial_assistant) | Bot de Telegram que registra receitas e despesas por mensagem livre, categoriza com IA e gera relatórios. | Python, SQLAlchemy, PostgreSQL |
 | [**API de gestão escolar**](https://github.com/Lymm-08/Projeto-API-gestao-escolar---mongoDB) | API REST para gerenciar alunos. | Node.js, Express, MongoDB |
-| [**marketCompare**](https://github.com/Lymm-08/marketCompare-TCC) | Comparação de preços entre supermercados com cadastro colaborativo de produtos. | Node.js, Express, Nunjucks, Bootstrap |
 | [**Gerador de senhas**](https://github.com/Lymm-08/Gerador-de-senhas-aleatorias) | Aplicativo desktop com interface gráfica. | Python, Tkinter |
 
 ## 📫 Contato
