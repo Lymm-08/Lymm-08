@@ -11,8 +11,8 @@ Técnica em Desenvolvimento de Sistemas (Etec), em São Paulo, desenvolvedora co
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,js,express,dart,flutter,firebase,html,css,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,githubactions,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,js,ts,express,react,dart,flutter,firebase,html,css,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,docker,git,github,githubactions,vscode,postman" />
 </p>
 
 <p>
@@ -22,16 +22,20 @@ Técnica em Desenvolvimento de Sistemas (Etec), em São Paulo, desenvolvedora co
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 </p>
 
 ## 🚀 Projetos em destaque
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [**ticket-flow-ai**](https://github.com/Lymm-08/ticket-flow-ai) | Robô que coleta chamados, classifica categoria e urgência com IA, grava no SQL Server e alerta os urgentes por webhook. API REST com painel web. | Python, Node.js, SQL Server, Docker, CI |
-| [**Fluxary**](https://github.com/Lymm-08/Fluxary_financial_assistant) | Bot de Telegram que registra receitas e despesas por mensagem livre, categoriza com IA e gera relatórios. | Python, SQLAlchemy, PostgreSQL |
-| [**API de gestão escolar**](https://github.com/Lymm-08/Projeto-API-gestao-escolar---mongoDB) | API REST para gerenciar alunos. | Node.js, Express, MongoDB |
-| [**Gerador de senhas**](https://github.com/Lymm-08/Gerador-de-senhas-aleatorias) | Aplicativo desktop com interface gráfica. | Python, Tkinter |
+| [**Ledger Core**](https://github.com/Lymm-08/Ledger-Core) | Motor de transferências financeiras com partidas dobradas, controle de concorrência e idempotência. Inclui processamento assíncrono de eventos e testes de carga. | Node.js, TypeScript, Fastify, PostgreSQL, Redis, RabbitMQ, Docker |
+| [**Ticket Flow AI**](https://github.com/Lymm-08/ticket-flow-ai) | Robô que coleta chamados, classifica categoria e urgência com IA, grava no SQL Server e alerta os urgentes por webhook. Inclui API REST e painel web. | Python, Node.js, SQL Server, Docker, CI |
+| [**Fluxary**](https://github.com/Lymm-08/FluxaryIA) · Em desenvolvimento | Aplicação web de finanças pessoais para organizar receitas e despesas, planejar gastos e oferecer assistência com IA. | React, TypeScript, Supabase |
+| [**API de gestão escolar**](https://github.com/Lymm-08/Projeto-API-gestao-escolar---mongoDB) | API REST para cadastrar, consultar e excluir registros de alunos. | Node.js, Express, MongoDB |
 
 ## 📫 Contato
 
